@@ -1,0 +1,42 @@
+{
+    "folders":
+    [
+        {
+            "path": "./",
+            "follow_symlinks": true,
+            "file_exclude_patterns": [
+                "webpack-stats.json",
+                "*.sublime-workspace",
+                "npm-debug.log",
+                "yarn.lock",
+                "*.jsbundle*"
+            ],
+            "folder_exclude_patterns": [
+                "node_modules",
+                "build",
+                "fonts",
+                "__tests__"
+            ]
+        }
+    ],
+    "settings": {
+        "auto_indent": true,
+        "detect_indentation": true,
+        "ensure_newline_at_eof_on_save": true,
+        "rulers": [ 100 ],
+        "smart_indent": true,
+        "tab_size": 2,
+        "translate_tabs_to_spaces": true,
+        "trim_automatic_white_space": true,
+        "trim_trailing_white_space_on_save": true,
+        "use_tab_stops": true
+    },
+	"FileImporter": {
+        "format": "auto",
+        "autoDefault": "import",
+        "alias": {
+            "react-native-fs": "RNFS",
+            "react-native-version-number": "VersionNumber"
+        }
+    }
+}
