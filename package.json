@@ -53,7 +53,7 @@
     "graphql-anywhere": "^3.1.0",
     "graphql-tag": "^2.2.2",
     "http": "^0.0.0",
-    "http-proxy": "^1.16.2",
+    "http-proxy": "^1.18.1",
     "https": "^1.0.0",
     "lodash": "^4.17.2",
     "native-base": "^2.1.5",
